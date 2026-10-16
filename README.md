@@ -199,3 +199,7 @@ Skype風の通話品質を実現するため、翻訳エンジン(ASR/MT/TTS)の
 (Rust + Tauri候補)、easy-web.tokyo配布導線、対応言語サンプル30件までの方針案を
 整備した。コード実装(クライアント本体・サーバーサイド)は未着手。詳細・次回再開
 ポイントは[`PORTING.md`](PORTING.md)を参照。
+
+---
+
+作者 / Author: 石塚正浩（MASAHIRO ISHIZUKA） (https://github.com/aon-co-jp)
